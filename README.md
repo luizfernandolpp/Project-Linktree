@@ -3,5 +3,10 @@ Protótipo de um Linktree com troca de temas. O projeto contém uma única pági
 
 
 
+
+
+
+
+
 Prototype of a Linktree with theme switching using basic JS functionalities. The project contains a single page with some CSS3 styling features and basic JavaScript properties. Visualize it <a href="https://luizfernandolpp.github.io/Project-Linktree/" target="_blank"> here </a>.
 
